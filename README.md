@@ -6,15 +6,11 @@
 
 A personal portfolio build using React to showcase previous projects and showcase myself.
 
+![image](https://github.com/JacksonR-K/Portfolio/assets/118566376/7342a9f4-12ae-4d5c-bc4e-b90a23b9353a)
+
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
-
-## Questions
-
-Any questions regarding the application can be directed via GitHub or Email:
-- [GitHub Profile](https://www.github.com/jacksonr-k)
-- jrkbirdy@hotmail.com
 
 ## Credits
 
