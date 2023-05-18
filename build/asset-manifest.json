@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c720bda.css",
-    "main.js": "/static/js/main.aba31397.js",
-    "static/media/Project": "/static/media/Project.e20b824fdd7a0213eed2",
-    "index.html": "/index.html",
-    "main.7c720bda.css.map": "/static/css/main.7c720bda.css.map",
-    "main.aba31397.js.map": "/static/js/main.aba31397.js.map"
+    "main.css": "/Portfolio/static/css/main.699ef56f.css",
+    "main.js": "/Portfolio/static/js/main.e2d691fc.js",
+    "static/media/Horiseon.PNG": "/Portfolio/static/media/Horiseon.ac54a06e9071d4716988.PNG",
+    "static/media/Jackson.jpg": "/Portfolio/static/media/Jackson.6c6c43d5d3cf1369c413.jpg",
+    "static/media/RevvedUpReviews.png": "/Portfolio/static/media/RevvedUpReviews.738538d0bdd9b8561a10.png",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.b9d123d5d77f7ea85810.pdf",
+    "static/media/TheWeatherDJ.jpg": "/Portfolio/static/media/TheWeatherDJ.e5f14704a767212123a7.jpg",
+    "static/media/Weather.png": "/Portfolio/static/media/Weather.09204d068c5f2b3ab9ec.png",
+    "index.html": "/Portfolio/index.html",
+    "main.699ef56f.css.map": "/Portfolio/static/css/main.699ef56f.css.map",
+    "main.e2d691fc.js.map": "/Portfolio/static/js/main.e2d691fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c720bda.css",
-    "static/js/main.aba31397.js"
+    "static/css/main.699ef56f.css",
+    "static/js/main.e2d691fc.js"
   ]
 }
