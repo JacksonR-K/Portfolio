@@ -1,0 +1,59 @@
+:root {
+  --header-background: #565656;
+  --unavailable: #ff0011;
+  --background: #CFCFCF;
+  --primary: #36454F;
+  --accent: #5B84BA;
+}
+
+header {
+  background-color: var(--primary);
+}
+
+/* Main page title */
+header h1 {
+  margin-top: 30px;
+  padding: 10px;
+  text-align: left;
+  height: fit-content;
+  background-color: var(--accent);
+  font-size: 4em;
+}
+
+/* Parent container used to apply space between the title and profile picture using flexbox properties */
+#title-image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Portrait Image */
+#portrait {
+  margin: 30px 30px 30px 30px;
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+}
+
+/* Contains the navigation links and uses flexbox properties to align them centered along the bottom of the header */
+#navigation {
+  display: flex;
+  justify-content: center;
+}
+
+/* Set to flex to align the list contents evenly */
+#navigation ul {
+  display: flex;
+  background-color: var(--accent);
+}
+
+/* Individual links in the nav bar */
+#navigation li {
+  margin: 3px 3px 0px 3px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+#navigation a {
+  /* Change the colour of the links to black to match other text on screen */
+  color: #000000;
+}
